@@ -1,6 +1,6 @@
 # QuantTradingResearch
 
-### Repositories - Reinforcement Learning
+### Reinforcement Learning
 
 |Index |Code                                                                         |Blog/Paper        |
 |----:|:---------------------------------------------------------------------------------|-----------:|
@@ -9,7 +9,7 @@
 
 ```
 
-### Repositories - Momentum
+### Momentum
 
 |Index |Code                                                                         |Blog/Paper        |
 |----:|:---------------------------------------------------------------------------------|-----------:|
